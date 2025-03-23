@@ -1,0 +1,1 @@
+This is a repository containing the notes I'm taking using obsidian, regarding a modpack I am working on for my friends in LethalCompany.
